@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Money Convert</string>
     <string name="usdInput">usdInput</string>
+    <string name="usd_x">IDR : %1$.2f </string>
 </resources>
